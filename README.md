@@ -1,6 +1,6 @@
 
 # Kubernetes Certified Administrator (CKA) Exam Preparation
-![[Pasted image 20240106233632.png]]
+![[diagrams/Pasted image 20240106233632.png]]
 Welcome to the Kubernetes Certified Administrator (CKA) Exam Preparation Guide. This repository is aimed at providing a structured and comprehensive guide to help learners prepare for the CKA exam. The CKA certification is a widely recognized credential in the industry, demonstrating deep knowledge and proficiency in Kubernetes.
 
 ## About the CKA Exam
